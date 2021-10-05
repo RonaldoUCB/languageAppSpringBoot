@@ -1,10 +1,10 @@
-package bo.edu.ucb.ingsoft.tasks;
+package bo.edu.ucb.ingsoft.languages;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TasksApplicationTests {
+class LanguagesApplicationTests {
 
 	@Test
 	void contextLoads() {
